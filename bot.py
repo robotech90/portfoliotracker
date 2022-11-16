@@ -36,6 +36,8 @@ I’ll will track all transactions from your
 and notify you immediately!
 Bot will NEVER ask you for your PRIVATE KEYS. Always type ONLY PUBLIC KEYS.
 
+## This Bot is developed by @robotech90
+
 By tracking your transactions, be the first to know when: 
     1) you get any tokens from ICO 
     2) you get Airdropped tokens 
